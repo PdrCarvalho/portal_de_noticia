@@ -1,0 +1,24 @@
+{
+  "name": "portal_de_noticia",
+  "version": "1.0.0",
+  "description": "portal de noticia utilizando node.js",
+  "main": "noticia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvalhao16/portal_de_noticia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carvalhao16/portal_de_noticia/issues"
+  },
+  "homepage": "https://github.com/carvalhao16/portal_de_noticia#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
